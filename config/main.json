@@ -1003,5 +1003,5 @@
     { "addr": "0xffc63b9146967a1ba33066fb057ee3722221acf0", "name": "A", "decimals": 18 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }, { "addr": "0x54b293226000ccbfc04df902eec567cb4c35a903", "name": "RTN", "decimals": 18 }, { "addr": "0x32e996a5a0b6d93c457bfa70917b08622ccdb3f4", "name": "DGTC", "decimals": 18 }, { "addr": "0x566fd7999b1fc3988022bd38507a48f0bcf22c77", "name": "TRCN", "decimals": 18 }, { "addr": "0x9bcf5cf15d33e0cd44eb150f39182757233b68c9", "name": "ADDO", "decimals": 18 }, { "addr": "0x16f22EEd5DCCed8bF57D28834A75A76Ff5520206", "name": "DNX", "decimals": 18 }
   ],
-  "defaultPair": { "token": "DAI", "base": "ETH" }
+  "defaultPair": { "token": "DGTC", "base": "ETH" }
 }
