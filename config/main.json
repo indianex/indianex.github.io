@@ -1001,8 +1001,8 @@
     { "addr": "0xff18dbc487b4c2e3222d115952babfda8ba52f5f", "name": "LIFE", "decimals": 18 },
     { "addr": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac", "name": "BCAP", "decimals": 0 },
     { "addr": "0xff603f43946a3a28df5e6a73172555d8c8b02386", "name": "RNT", "decimals": 18 },
-    { "addr": "0xffc63b9146967a1ba33066fb057ee3722221acf0", "name": "A", "decimals": 18 },
+    { "addr": "0x49b2635cb8a7edc44ab8173ae6a9ffbe7cd90824", "name": "TCC", "decimals": 8 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }, { "addr": "0x54b293226000ccbfc04df902eec567cb4c35a903", "name": "RTN", "decimals": 18 }, { "addr": "0x32e996a5a0b6d93c457bfa70917b08622ccdb3f4", "name": "DGTC", "decimals": 18 }, { "addr": "0x566fd7999b1fc3988022bd38507a48f0bcf22c77", "name": "TRCN", "decimals": 18 }, { "addr": "0x9bcf5cf15d33e0cd44eb150f39182757233b68c9", "name": "ADDO", "decimals": 18 }, { "addr": "0x16f22EEd5DCCed8bF57D28834A75A76Ff5520206", "name": "DNX", "decimals": 18 }
   ],
-  "defaultPair": { "token": "DGTC", "base": "ETH" }
+  "defaultPair": { "token": "TCC", "base": "ETH" }
 }
